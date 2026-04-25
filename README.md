@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="AQUI_TU_LINK_DE_LINKEDIN">
+  <a href="www.linkedin.com/in/carlos-avila-tovar-540574326">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&borderColor=00FFFF" alt="LinkedIn" />
   </a>
-  <a href="AQUI_TU_LINK_DE_INSTAGRAM">
+  <a href="https://www.instagram.com/skyler_avil/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00FF&borderColor=FF00FF" alt="Instagram" />
   </a>
 </p>
